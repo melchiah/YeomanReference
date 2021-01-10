@@ -1,0 +1,23 @@
+{
+  "name": "generator-context",
+  "version": "1.0.0",
+  "description": "Yeoman generator scaffold. A reference to build new Yeoman generators.",
+  "files": [
+    "generators"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  },
+  "peerDependencies": {
+
+  },
+  "author": "",
+  "license": "ISC"
+}
